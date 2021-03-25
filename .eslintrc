@@ -23,11 +23,11 @@
 		"no-debugger": 2,
 		"semi": [
 			1,
-			"always"
+			"ignore"
 		],
 		"quotes": [
 			1,
-			"double"
+			"single"
 		],
 		"key-spacing": [
 			1,

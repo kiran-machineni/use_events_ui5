@@ -1,1 +1,6 @@
-/* Enter your custom styles here */
+.imgStyle {
+  display: block;
+  width: auto;
+  height: 50%;
+  margin: auto;
+}
